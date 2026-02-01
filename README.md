@@ -1,4 +1,4 @@
-# Jumia Product Performance Dashboard (Excel)
+# Jumia Product Performance Dashboard 
 
 An interactive dashboard analyzing Jumia product pricing, discounts, ratings, and reviews to uncover product performance insights.
 
